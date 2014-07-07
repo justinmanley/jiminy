@@ -2,7 +2,10 @@
 <resources>
 
     <string name="app_name">Jiminy</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="button_start">Start Tracking</string>
+    <string name="app_welcome">Welcome to Jiminy!  If you would like to participate in the survey that your university is running, you can click the button below to opt-in.</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_track_movement">Track my movement</string>
+    <string name="hello_world">Hello world!</string>
 
 </resources>
